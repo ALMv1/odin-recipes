@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px auto;
+}
+
+.title.main {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid red;
+    padding: 20px 0px;
+    background-color: rgb(187, 248, 248);
+}
+
+.img {
+    box-sizing: border-box;
+    display: block;
+    margin: auto;
+    border: 6px solid rgb(0, 0, 0);
+    margin: 40px auto;
+}
+
+#menucontainer {
+    text-align: center;
+    border: 3px solid red;
+    background-color: rgb(245, 104, 61);
+    padding: 20px 0px;
+}
+
+ul.menu {
+    display: inline-block;
+    text-align: left;
+    font-size: 19px
+}
