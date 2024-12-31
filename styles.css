@@ -30,11 +30,12 @@
     text-align: center;
     border: 3px solid red;
     background-color: rgb(245, 104, 61);
-    padding: 20px 0px;
+    padding: 22px 0px;
 }
 
 ul.menu {
     display: inline-block;
     text-align: left;
-    font-size: 19px
+    font-size: 19px;
+    padding: 1px;
 }
